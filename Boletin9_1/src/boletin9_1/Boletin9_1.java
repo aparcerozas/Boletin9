@@ -18,7 +18,6 @@ public class Boletin9_1 {
         // TODO code application logic here
         Contador perita = new Contador();
         perita.grupoNumeros();
-        perita.resultado();
     }
     
 }
